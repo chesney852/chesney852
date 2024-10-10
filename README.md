@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello everyone
+
+I am currently a graduate student at the University of Michigan in the Master of Applied Data Science (MADS) program.
+
+
 
 <!--
 **chesney852/chesney852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
